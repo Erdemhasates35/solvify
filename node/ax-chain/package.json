@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@axelar-network/axelar-gmp-sdk-solidity": "^5.3.3",
-    "@axelar-network/axelarjs-sdk": "^0.13.6",
+    "@axelar-network/axelarjs-sdk": "^0.17.9",
     "dotenv": "^16.3.1"
   }
 }
